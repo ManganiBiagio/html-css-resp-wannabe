@@ -10,7 +10,8 @@
     .lessons .col,
     .steps .col,
     .why-us .col{
-        padding: 0;
+        padding-left: .2rem;
+        padding-right: .2rem;
     }
 
     
